@@ -1,0 +1,31 @@
+group,language,word,marks_in_word,title_hits_correct_spelling,title_hits_marks_removed
+marks,Thai,การศึกษา,1,0,160
+marks,Thai,การพัฒนา,1,0,98
+marks,Thai,นักเรียน,2,0,27
+marks,Thai,ผู้บริหาร,3,0,16
+marks,Hindi,शिक्षा,3,0,2630
+marks,Hindi,विकास,2,0,2324
+marks,Hindi,भारत,1,0,2531
+marks,Hindi,साहित्य,3,0,1879
+marks,Bengali,শিক্ষা,3,0,74
+marks,Bengali,বাংলাদেশ,4,0,124
+marks,Tamil,கல்வி,2,0,52
+marks,Tamil,தமிழ்,2,0,360
+marks,Marathi,शिक्षण,2,0,735
+marks,Gujarati,શિક્ષણ,2,0,62
+marks,Kannada,ಶಿಕ್ಷಣ,2,0,14
+marks,Sinhala,අධ්යාපන,2,0,13
+marks,Punjabi,ਸਿੱਖਿਆ,3,0,6
+marks,Malayalam,വിദ്യാഭ്യാസം,6,0,2
+marks,Telugu,విద్య,2,0,1
+same_script_no_marks,Thai,ประเทศไทย,0,3113,same word
+same_script_no_marks,Thai,ภาษาไทย,0,60,same word
+same_script_no_marks,Hindi,नगर,0,226,same word
+same_script_no_marks,Hindi,समय,0,199,same word
+same_script_no_marks,Bengali,নগর,0,15,same word
+same_script_no_marks,Tamil,நகர,0,9,same word
+other_script,Arabic,التعليم,0,20043,same word
+other_script,Chinese,教育,0,621211,same word
+other_script,Korean,교육,0,15371,same word
+other_script,Russian,образование,0,13016,same word
+other_script,English,education,0,2331432,same word

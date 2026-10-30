@@ -1,0 +1,12 @@
+Snapshot date: 2026-10-14
+File: data/jsonl/works/updated_date=2026-10-14/part_0159.gz
+File: data/jsonl/works/updated_date=2026-09-25/part_0022.gz
+File: data/jsonl/works/updated_date=2026-09-06/part_0003.gz
+Records read: 133,805
+DEVANAGARI: 18 titles, 0 with any mark
+THAI: 54 titles, 0 with any mark
+BENGALI: 2 titles, 0 with any mark
+TAMIL: 5 titles, 0 with any mark
+Those works whose abstract kept its marks: 38
+Author names on those works in the same script: 40, 40 with marks
+All records: 0 titles with a zero-width joiner, 121 abstracts with one

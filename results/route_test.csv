@@ -1,0 +1,15 @@
+word,route,hits_correct_spelling,hits_marks_removed
+शिक्षा,filter title.search,0,2630
+शिक्षा,filter title.search.exact,0,2630
+शिक्षा,filter display_name.search,0,2630
+शिक्षा,OQL: works where title has,0,2630
+शिक्षा,autocomplete,0,5719
+शिक्षा,filter title_and_abstract.search,5687,2630
+शिक्षा,search=,5904,2633
+การศึกษา,filter title.search,0,160
+การศึกษา,filter title.search.exact,0,160
+การศึกษา,filter display_name.search,0,160
+การศึกษา,OQL: works where title has,0,160
+การศึกษา,autocomplete,0,3854
+การศึกษา,filter title_and_abstract.search,1087,385
+การศึกษา,search=,1265,387
